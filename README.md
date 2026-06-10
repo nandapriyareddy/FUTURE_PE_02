@@ -17,8 +17,9 @@ ChatGPT was used to generate all UGC ad content, including hooks, scripts, and c
 
 ## Repository Contents
 
-* prompts.txt → Structured prompts used to generate UGC content
-* hooks-output.txt → Collection of attention-grabbing hooks
-* ugc-scripts-output.txt → Full UGC ad scripts
-* cta-output.txt → Call-to-action statements
-* captions-output.txt → Social media captions
+* prompts.docx → Structured prompts used to generate UGC content
+* hooks-output.docx → Collection of attention-grabbing hooks
+* ugc-scripts-output.docx → Full UGC ad scripts
+* cta-output.docx → Call-to-action statements
+* captions-output.docx → Social media captions
+* mockups → Instagram mockups created with ugc scripts
